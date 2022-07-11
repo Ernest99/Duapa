@@ -8,8 +8,6 @@
     box-sizing: border-box;
     text-decoration: none;
     scroll-behavior: smooth;
-    /* font-family: 'Sora', sans-serif;
-    font-family: 'poppins', sans-serif; */
 }
 
 
@@ -172,12 +170,6 @@
     font-family: 'poppins', sans-serif;
 }
 
-
-/* .header .textBox {
-    margin-top: 3.5rem;
-    margin-left: 3rem;
-} */
-
 .header .textBox h1 {
     font-size: 5rem;
     font-family: 'Sora', sans-serif;
@@ -295,9 +287,6 @@
     width: 300px;
     height: 100%;
     padding: 30px;
-    /* display: flex !important;
-    flex-direction: column;
-    justify-content: center !important; */
     text-align: center;
     align-items: center;
     margin-top: 15px !important;
@@ -406,16 +395,6 @@
     color: var(--green);
     margin-top: 30px;
 }
-
-
-/* 
-.owl-carousel {
-    z-index: -1 !important;
-}
-
-.item {
-    z-index: 1 !important;
-} */
 
 .app .desktop img {
     width: 100%;

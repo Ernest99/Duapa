@@ -5,11 +5,7 @@ sr.reveal('.pop', {
     duration: 2500,
     reset: true
 });
-// sr.reveal('.faq_img', {
-//     origin: "top",
-//     duration: 1500,
-//     reset: true
-// });
+
 
 
 // back to top
